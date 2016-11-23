@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "121053996750",
+    "firebase_url": "https://rujulmegha.firebaseio.com",
+    "project_id": "rujulmegha",
+    "storage_bucket": "rujulmegha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121053996750:android:f5345df65f171103",
+        "android_client_info": {
+          "package_name": "com.example.rujul.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121053996750-rc923rqcptgtqjfeid3icdjhn476v80a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rujul.myapplication",
+            "certificate_hash": "0757883D07EC4F2B1D629E5810166568C13D2C1C"
+          }
+        },
+        {
+          "client_id": "121053996750-dvj6l839sli3b4md98cl8bo3v9h5s69j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADNJQkCrOFdfo5zD7XiVqg5Jhz4EGJ5-0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121053996750-dvj6l839sli3b4md98cl8bo3v9h5s69j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
